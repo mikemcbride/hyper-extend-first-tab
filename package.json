@@ -1,0 +1,15 @@
+{
+  "name": "hyper-extend-first-tab",
+  "version": "1.0.0",
+  "description": "Extends the first tab to cover the traffic lights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hyper",
+    "theme"
+  ],
+  "author": "mikemcbride",
+  "license": "MIT"
+}
